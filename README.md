@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @duccuccu
 - 👀 I’m interested in myself
-- 🌱 I’m currently learning js
+- 🌱 I’m currently learning code
 - 💞️ I’m looking to collaborate on Big guy
 - 📫 How to reach me duccuccu2000@gmail.com
 
